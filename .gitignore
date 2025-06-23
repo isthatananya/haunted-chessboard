@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Virtual environments
+pygame-env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Game files
+hall_of_souls.txt
+
+# AWS
+bucket-policy.json
+
+# Build files
+BUILD-INFO
+bin/
+install.sh
+test_pygame.py
