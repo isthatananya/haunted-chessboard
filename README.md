@@ -62,6 +62,11 @@ Puzzles using FEN notation: Each haunted room is backed by a real chess puzzle u
 - **Castling:** `O-O` (kingside), `O-O-O` (queenside)
 - **Check/Mate:** `Qh5+` (check), `Qh5#` (checkmate)
 
+## 👻 Haunted Gameplay Preview
+
+![Gameplay Screenshot](https://github.com/isthatananya/haunted-chessboard/blob/217cdb7340d422644b36c5aad224231097da91e5/Screenshot1.png)
+
+
 ## 🎯 Solutions (Spoiler Alert!)
 
 <details>
