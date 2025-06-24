@@ -29,6 +29,10 @@ A spooky terminal-based chess puzzle game where you must solve chess puzzles to 
 1. **The Dusty Library** - Mate in 1 puzzle
 2. **The Moonlit Parlor** - Mate in 2 puzzle  
 3. **The Master Bedroom** - Final mate in 1 puzzle
+## 👻 Haunted Gameplay Preview
+
+![Gameplay Screenshot](https://github.com/isthatananya/haunted-chessboard/blob/55d3e244a500109c900b4825483a8c0621061804/haunted_gameplay.png)
+
 
 ## 🏆 Features
 
